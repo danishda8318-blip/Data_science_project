@@ -42,7 +42,8 @@ Certain transaction types (e.g., TRANSFER and CASH_OUT) show higher association 
 
 Fraudulent transactions often involve large transaction amounts compared to normal transactions.
 
-Balance differences before and after transactions provide useful signals for fraud detection.
+Balance differences before and after transactions provide useful signals for fraud detection.![WhatsApp Image 2026-01-20 at 11 27 37 AM](https://github.com/user-attachments/assets/34e652a4-52cf-42d9-be8c-c091ceef5892)
+
 
 **5.0 Machine Learning Applied**
 

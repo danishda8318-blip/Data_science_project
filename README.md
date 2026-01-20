@@ -8,7 +8,7 @@ Financial institutions face a major challenge in identifying fraudulent transact
 Manual monitoring is slow, error-prone, and not scalable.
 
 Objective:
-Build a machine learning model that can predict whether a transaction is fraudulent or legitimate based on transaction details, and deploy it as a simple web application.![Uploading Screenshot 2026-01-20 114517.png…]()
+Build a machine learning model that can predict whether a transaction is fraudulent or legitimate based on transaction details, and deploy it as a simple web application.
 
 
 **2.0 Business Assumptions**

@@ -59,7 +59,8 @@ Numerical feature scaling using StandardScaler
 
 Pipeline created using ColumnTransformer and Pipeline from Scikit-learn
 
-Entire preprocessing + model combined into a single reusable pipeline
+Entire preprocessing + model combined into a single reusable pipeline![WhatsApp Image 2026-01-20 at 11 32 45 AM](https://github.com/user-attachments/assets/d8e37864-c002-456a-8189-ee434ca7057c)
+
 
 **6.0 Machine Learning Performance**
 

@@ -102,6 +102,19 @@ Streamlit made model deployment simple and interactive.
 
 The project demonstrates a real-world application of machine learning in finance.
 
+**Web Application (Streamlit)**
+
+The Streamlit app allows users to:
+
+Enter transaction details
+
+Run fraud prediction instantly
+
+View prediction result in real-time
+
+🔗 Live Demo:
+👉 https://datascienceproject-4afbhn9c24dgyej8yuo7ay.streamlit.app/
+
 **9.0 Lessons Learned**
 
 Importance of proper EDA before modeling.
